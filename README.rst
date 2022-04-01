@@ -1,17 +1,17 @@
 ===============================================
-DVPWA -- Damn Vulnerable Python Web Application
+Technical Challenge 
 ===============================================
 
 Description
 ===========
 
-DVPWA was inspired by famous `dvwa`_ project and `bobby-tables xkcd comics`_.
-The purpose of this project is to implement real-world like application in
-Python with as many vulnerabilities as possible while having a good design and
-intentions.
+This challenge uses the DVPWA -- Damn Vulnerable Python Web Application. 
+Read the instructions provided closely. Don't overwork, keep it simple.
 
-This project was used as demonstration of vulnerabilities during my
-`Web vulnerabilities`_ presentation at EVO Summer Python Lab'17.
+Original repo
+=======
+https://github.com/anxolerd/dvpwa
+
 
 Running
 =======
