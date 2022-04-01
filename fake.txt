@@ -1,1 +1,5 @@
 "fake_Secret": "AKIAIDDDJVYYDXXXE4OA"
+[Bound.reward]: 'https://hooks.slack.com/services/R44GFBS3A/A123DTWKMY/R96D2Q5sdFG5xUiOkHn4TBj3',
+String apiKey = 'AIzaRfDod5sc2Opk8HNh8HKNM4sdcsaIdc4sdOs';
+String address = 'Street Leopold 5666, Munchen';
+new AWSCredentials("AKHDNSYEHDFHASDFJQKD", "Ay4LKJHG+WYSj6jdhGHu8jh9sas9HSNuBSHDGBjy")
